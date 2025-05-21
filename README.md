@@ -1,4 +1,4 @@
-============================================================================================
+                ============================================
 ![image](https://github.com/user-attachments/assets/24faafff-8017-412e-a89b-2b5e726fb93c)
 
 Developer: The person writing the code and Helm chart.
